@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="65" viewBox="0 0 200 65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 221.872px;
+        fill: #e31019;
+        text-anchor: middle;
+        font-family: "Bebas Neue";
+      }
+    </style>
+  </defs>
+  <text id="devflix" class="cls-1" transform="translate(100 61.289) scale(0.366)"><tspan x="0">devflix</tspan></text>
+</svg>
